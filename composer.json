@@ -1,0 +1,16 @@
+{
+    "name": "suporte/magnabosco",
+    "authors": [
+        {
+            "name": "Dionathan Silva",
+            "email": "dionideev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"app"
+        },
+        "files":[]
+    }
+}
